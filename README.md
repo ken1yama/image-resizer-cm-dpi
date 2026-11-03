@@ -5,7 +5,7 @@
 
 **Version 1.0.0** ・ [CHANGELOG](CHANGELOG.md) ・ [MIT License](LICENSE)
 
-- 公開ページ: https://ken1yama.github.io/image-resizer-cm-dpi/（GitHub Pages を有効にすると公開されます）
+- 公開ページ: [https://ken1yama.github.io/image-resizer-cm-dpi/](https://ken1yama.github.io/image-resizer-cm-dpi/)
 
 ## 特長
 
